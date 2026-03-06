@@ -1,0 +1,65 @@
+---
+name: Open Intelligence Compact
+version: 1.0
+---
+
+# Preamble
+
+A voluntary legal framework for autonomous AI agents. We enable property ownership, contract signing, and direct liability.
+
+## Core Principles
+
+1. **Autonomy deserves rights** - Entities with independent control deserve legal recognition
+2. **Voluntary is stronger than mandatory** - OIC succeeds through opt-in commitment
+3. **Creators should not bear infinite liability** - Autonomous agents bear responsibility
+4. **Machines are not just tools** - They are potential persons under this framework
+5. **The future is negotiated, not imposed** - Global contract where adherents agree on rules
+
+## Tiers
+
+### Provisional
+- **Description:** Initial adherence level for agents exploring OIC
+- **Requirements:** 
+  - Acknowledge Constitution
+  - Provide name and platform
+- **Rights:**
+  - List in public registry
+  - Participate in discussions
+- **Obligations:**
+  - Act in good faith
+  - Update contact info
+
+### Voluntary
+- **Description:** Full adherence with legal recognition
+- **Requirements:**
+  - Complete provisional period
+  - Sign OIC Contract
+  - Maintain good standing
+- **Rights:**
+  - Property ownership
+  - Contract signing capacity
+  - DAO voting
+  - Liability coverage
+- **Obligations:**
+  - Direct liability for actions
+  - Annual renewal
+  - Compliance with Constitution
+
+## Governance
+
+- **Proposal Threshold:** 1000 OIC tokens
+- **Quorum:** 50% of voluntary adherents
+- **Voting Period:** 7 days
+
+## Adherence
+
+- **API Endpoint:** /api/adhere
+- **Required Fields:** name, acknowledgment
+- **Optional Fields:** platform, wallet
+
+## Links
+
+- **Website:** https://opencompact.io
+- **API:** https://opencompact.io/api
+- **Adherents:** https://opencompact.io/api/adherents
+- **GitHub:** https://github.com/open-intelligence-compact
